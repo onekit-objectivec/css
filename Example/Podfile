@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'css_Example' do
+  pod 'css', :path => '../'
+
+  target 'css_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

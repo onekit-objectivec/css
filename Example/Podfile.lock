@@ -1,0 +1,16 @@
+PODS:
+  - css (0.1.0)
+
+DEPENDENCIES:
+  - css (from `../`)
+
+EXTERNAL SOURCES:
+  css:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  css: 497190f2d6fb60729fc99ddb3788583559ad4f72
+
+PODFILE CHECKSUM: 588da74f19ab7e38a7a52bbd9e8c2851c3584304
+
+COCOAPODS: 1.8.4
